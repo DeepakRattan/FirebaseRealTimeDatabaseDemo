@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "539799285302",
+    "firebase_url": "https://fir-realtimedatabasedemo-72271.firebaseio.com",
+    "project_id": "fir-realtimedatabasedemo-72271",
+    "storage_bucket": "fir-realtimedatabasedemo-72271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539799285302:android:964d1dc8e52093f7",
+        "android_client_info": {
+          "package_name": "com.example.deepakrattan.firebaserealtimedatabasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539799285302-cb7ho9l9stslsq74f75uoij8i7skkqf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deepakrattan.firebaserealtimedatabasedemo",
+            "certificate_hash": "a0987ceb01bb785dcc782b6931c4af73cb983336"
+          }
+        },
+        {
+          "client_id": "539799285302-niscur6shnhs2uhkhvm6fhubufig2crf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjsc7ksoS_HdE814H5o2AJrJ7FM5TOg4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539799285302-niscur6shnhs2uhkhvm6fhubufig2crf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
